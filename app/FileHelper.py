@@ -61,13 +61,31 @@ def dict_to_geojson(dict_data,  type='LineString'):
     return geojson
 
 
-def write_json(context, path="./static/road_mid_cellid_string.json"):
+def write_json(context, path):
     with open(path, "w") as f:
         json.dump(context, f)
         print("Write to :"+path)
 
 
-def append_file(data, path):
-    f = open(path, 'a')
-    f.write(str(data))
-    f.write('\n')
+def notice_write(path, string='',format=''):
+    print("Write"+string+" into:" + path)
+    if format:
+        print("Every line represents gps list of a road segment. Format:")
+        print(format)
+
+
+def append_file(data, path, notice=True):
+    dtype = type(data).__name__
+    with open(path, 'a') as f:
+        if dtype == 'list' or dtype == 'dict':
+            for i in data:
+                f.write(str(i))
+                f.write('\n')
+            if notice:
+                notice_write(path=path, format=data[0])
+        else:
+            f.write(str(data))
+            f.write('\n')
+            if notice:
+                notice_write(path=path)
+

@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1280823-85ec-4490-ad1e-f2095ca8c5c7" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/app/static/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/DiagramsHelper.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/DiagramsHelper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/FileHelper.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/FileHelper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/MLHelper.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/MLHelper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/PreprocessMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/PreprocessMain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/TypeHelper.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/TypeHelper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/road_cellid_sort.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/static/road_cellid_sort.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/road_kmeans.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/road_kmeans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/road_kmeans_centers.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/road_kmeans_inertia.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/road_kmeans_labels.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/road_mid_cellid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/road_mid_cellid_string.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/road_mid_point_cellid.csv" beforeDir="false" afterPath="$PROJECT_DIR$/app/static/road_mid_point_cellid.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/road_mid_point_gps.csv" beforeDir="false" afterPath="$PROJECT_DIR$/app/static/road_mid_point_gps.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/road_sort_labels.csv" beforeDir="false" afterPath="$PROJECT_DIR$/app/static/road_sort_labels.csv" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="PreprocessMain.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/PreprocessMain.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="619">
+              <caret line="146" column="2" selection-start-line="146" selection-start-column="2" selection-end-line="146" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="frame.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/anaconda/install/Lib/site-packages/pandas/core/frame.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="1822" selection-start-line="1822" selection-end-line="1822" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="validation.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/anaconda/install/Lib/site-packages/sklearn/utils/validation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="432" selection-start-line="432" selection-end-line="432" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MLHelper.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/MLHelper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="road_gps.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/static/road_gps.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="25285" column="77" selection-start-line="25285" selection-start-column="77" selection-end-line="25285" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="road_relation.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/static/road_relation.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="25286" selection-start-line="25286" selection-end-line="25286" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TypeHelper.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/TypeHelper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiagramsHelper.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/DiagramsHelper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="41" column="14" lean-forward="true" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;id&quot;:0</find>
+      <find>113.98900604248047,22</find>
+      <find>113.98915100097656,22.52579116821289</find>
+      <find>113.9892807006836,22.52594757080078</find>
+      <find>113.98894500732422,22.527986526489258</find>
+      <find>113.97897338867188,22.521774291992188</find>
+      <find>113.99034881591797,22.52442741394043</find>
+      <find>113.9786605834961,22.521345138549805</find>
+      <find>114.13109588623047,22.536029815673828</find>
+      <find>114.13002014160156,22.53645133972168</find>
+      <find>113.98900604248047,22.525766372680664</find>
+      <find>113.98900604248047,22.525766372680664</find>
+      <find>113.98900604248047, 22.525766372680664</find>
+      <find>[113.98900604248047,22.525766372680664]</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="D:\Program Files\git\Git\bin\git.exe" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/views.py" />
+        <option value="$PROJECT_DIR$/app/templates/shenzhen_road_split.html" />
+        <option value="$PROJECT_DIR$/app/static/road_gps.txt" />
+        <option value="$PROJECT_DIR$/app/FileHelper.py" />
+        <option value="$PROJECT_DIR$/app/static/test" />
+        <option value="$PROJECT_DIR$/app/static/road_relation.txt" />
+        <option value="$PROJECT_DIR$/app/TypeHelper.py" />
+        <option value="$PROJECT_DIR$/app/MLHelper.py" />
+        <option value="$PROJECT_DIR$/app/PreprocessMain.py" />
+        <option value="$PROJECT_DIR$/app/DiagramsHelper.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-33" />
+    <option name="y" value="-17" />
+    <option name="width" value="1936" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpatialStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpatialStore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpatialStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpatialStore" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpatialStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpatialStore" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/Program Files/git/Git/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.PreprocessMain">
+    <configuration name="PreprocessMain" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SpatialStore" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/PreprocessMain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SpatialStore" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.PreprocessMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.PreprocessMain" />
+        <item itemvalue="Python.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1280823-85ec-4490-ad1e-f2095ca8c5c7" name="Default" comment="" />
+      <created>1524844534101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524844534101</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36710238" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" weight="0.32897604" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/static/link-way.json">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="251737">
+          <caret column="1056800" selection-start-column="1056800" selection-end-column="1056800" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anaconda/install/Lib/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="1050" selection-start-line="1050" selection-end-line="1050" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/shenzhen_road_split.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/MapHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2080" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/node-way.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret column="258" selection-start-column="221" selection-end-column="258" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="928">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/FileHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="77" column="22" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/TypeHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/road_relation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="25286" selection-start-line="25286" selection-end-line="25286" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/road_mid_cellid_string.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-941189" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/road_mid_cellid_string.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret column="4230632" selection-start-column="4230632" selection-end-column="4230632" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anaconda/install/Lib/site-packages/sklearn/utils/validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="432" selection-start-line="432" selection-end-line="432" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/road_kmeans_centers.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/road_kmeans_labels.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308607" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/road_mid_point_gps.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="25286" selection-start-line="25286" selection-end-line="25286" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/MLHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/road_sort_labels.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-732912" />
+      </provider>
+    </entry>
+    <entry file="file://D:/anaconda/install/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="1822" selection-start-line="1822" selection-end-line="1822" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/road_mid_point_cellid.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/road_gps.txt">
+      <provider editor-type-id="LargeFileEditor">
+        <state relative-caret-position="116">
+          <caret line="4" column="384" selection-start-line="4" selection-start-column="384" selection-end-line="4" selection-end-column="384" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="25285" column="77" selection-start-line="25285" selection-start-column="77" selection-end-line="25285" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/road_mid_cellid.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-916263" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/PreprocessMain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="146" column="2" selection-start-line="146" selection-start-column="2" selection-end-line="146" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/DiagramsHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="41" column="14" lean-forward="true" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

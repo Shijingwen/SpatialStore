@@ -51,3 +51,22 @@ def arr_interval_label(arr, spliter=[]):
             else:
                 interval += 1
     return label
+
+
+def str_to_list(str):
+    return list(str)
+
+
+def list_to_str(list):
+        return ','.join(list)
+
+
+def str_to_int(data):
+    dtype = type(data).__name__
+    list_data = []
+    if dtype == 'list':
+        for i in data:
+            list_data.append(int(i))
+        return list_data
+    else:
+        return int(data)

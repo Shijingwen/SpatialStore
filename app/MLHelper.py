@@ -9,7 +9,6 @@ from sklearn.cluster import KMeans
 
 
 def kmeans(data, n_clusters=3):
-    print(data[0])
     estimator = KMeans(n_clusters=n_clusters, max_iter=10000)  # Build a cluster
     estimator.fit(data)  # Fit in data
     result={}
